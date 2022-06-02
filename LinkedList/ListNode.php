@@ -14,4 +14,3 @@
         $this->data = $data;
     }
  }
-//  
