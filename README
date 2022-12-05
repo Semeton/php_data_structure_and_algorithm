@@ -1,0 +1,21 @@
+This is a project aim to understand and implement data structure and algorithm in PHP
+PHP Data Types vs Abstract Data Types (ADT)
+PHP-DT
+-Booleans
+-Integer
+-Float
+-String
+-Array
+-Object
+-Resource
+-Null
+
+ADT
+-List
+-Map
+-Set
+-Stack [Last-In, First-Out(LIFO)]
+-Queue [First-In, First-Out(FIFO)]
+-Priority Queue
+-Graph
+-Tree
