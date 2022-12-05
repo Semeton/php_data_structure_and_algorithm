@@ -1,0 +1,5 @@
+An array in PHP is actually an ordered map. A map is a type that associates values to keys
+Types
+-Numeric array
+-Associative array
+-Multidimensional array

@@ -11,11 +11,14 @@ PHP-DT
 -Null
 
 ADT
+Linear DS
+-Array
 -List
 -Map
 -Set
 -Stack [Last-In, First-Out(LIFO)]
 -Queue [First-In, First-Out(FIFO)]
 -Priority Queue
+Non-Linear DS
 -Graph
 -Tree
