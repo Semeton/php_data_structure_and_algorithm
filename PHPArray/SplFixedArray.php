@@ -20,3 +20,5 @@ for ($i=0; $i < 10; $i++) {
  $arr = range(1, 100000);
  $endMemory = memory_get_usage();
  echo ($endMemory - $startMemory)." bytes";
+
+//  
