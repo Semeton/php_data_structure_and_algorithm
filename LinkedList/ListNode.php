@@ -9,7 +9,7 @@
     public $data = NULL;
     public $next = NULL;
     
-    public function __construct(string $data = Null)
+    public function __construct(string $data = NULL)
     {
         $this->data = $data;
     }
