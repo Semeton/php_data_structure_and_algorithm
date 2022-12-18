@@ -18,4 +18,14 @@ class LinkedList{
         $this->_totalNodes++;
         return true;
     }
+    
+    public function display()
+    {
+        echo "Total book title: ".$this->_totalNodes."\n";
+        $currentNode = $this->_firstNode;
+        while ($currentNode !== NULL) {
+            echo $currentNode->data."\n";
+            $currentNode = $currentNode->next;
+        }
+    }
 }
